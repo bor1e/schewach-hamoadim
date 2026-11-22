@@ -82,6 +82,7 @@
 }
 
 #page(header: none, footer: none)[
+  #place(top + right, text(font: hebrew-font, lang: "he", dir: rtl, size: 9pt, fill: muted)[בס״ד])
   #align(center + horizon)[
     #text(size: 18pt, weight: "bold", fill: accent)[Schewach Hamoadim — Korrekturfahne]
     #v(0.5em)

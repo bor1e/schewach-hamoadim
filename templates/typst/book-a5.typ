@@ -79,6 +79,7 @@
 
 // --- Deckblatt ---
 #page(header: none, footer: none)[
+  #place(top + right, text(font: hebrew-font, lang: "he", dir: rtl, size: 9pt, fill: muted)[בס״ד])
   #align(center + horizon)[
     #text(size: 20pt, weight: "bold", fill: accent)[Schewach Hamoadim]
     #v(0.4em)
