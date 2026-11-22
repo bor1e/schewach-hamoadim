@@ -32,15 +32,21 @@
   }
 )
 
-#show heading.where(level: 1): it => block(sticky: true, above: 1.2em, below: 0.6em)[
+#show heading.where(level: 1): it => block(sticky: true, above: 1.4em, below: 1.0em)[
+  #set par(justify: false)
+  #set text(hyphenate: false)
   #text(size: 15pt, weight: "bold", fill: accent, it.body)
 ]
 
-#show heading.where(level: 2): it => block(sticky: true, above: 1.0em, below: 0.35em)[
+#show heading.where(level: 2): it => block(sticky: true, above: 1.35em, below: 0.65em)[
+  #set par(justify: false)
+  #set text(hyphenate: false)
   #text(size: 11.5pt, weight: "bold", fill: accent, it.body)
 ]
 
-#show heading.where(level: 3): it => block(sticky: true, above: 0.7em, below: 0.25em)[
+#show heading.where(level: 3): it => block(sticky: true, above: 0.9em, below: 0.45em)[
+  #set par(justify: false)
+  #set text(hyphenate: false)
   #text(size: 10.5pt, weight: "bold", it.body)
 ]
 
