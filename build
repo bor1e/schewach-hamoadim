@@ -65,7 +65,7 @@ BASE_VER="$(tr -d '[:space:]' < "$SCRIPT_DIR/VERSION")"
 if [[ -n "$VERSION" && "$VERSION" != *" · "* ]]; then
     BASE_VER="${VERSION#v}"
 elif git -C "$SCRIPT_DIR" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-    LATEST_TAG="$(git -C "$SCRIPT_DIR" describe --tags --abbrev=0 2>/dev/null || true)"
+    LATEST_TAG="$(git -C "$SCRIPT_DIR" tag -l 'v*' --sort=-v:refname | head -n 1 || true)"
     [[ -n "$LATEST_TAG" ]] && BASE_VER="${LATEST_TAG#v}"
 fi
 mkdir -p "$SCRIPT_DIR/archive"

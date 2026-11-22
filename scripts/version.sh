@@ -3,7 +3,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 BASE="$(tr -d '[:space:]' < "$ROOT/VERSION")"
 if git -C "$ROOT" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-    LATEST_TAG="$(git -C "$ROOT" describe --tags --abbrev=0 2>/dev/null || true)"
+    LATEST_TAG="$(git -C "$ROOT" tag -l 'v*' --sort=-v:refname | head -n 1 || true)"
     if [[ -n "$LATEST_TAG" ]]; then
         BASE="${LATEST_TAG#v}"
     fi
