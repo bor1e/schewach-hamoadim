@@ -1,4 +1,4 @@
-name: Build PDF
+name: Build & Tag PDF
 
 on:
   push:
@@ -10,7 +10,11 @@ on:
       - "fonts/**"
       - "build"
       - "VERSION"
+      - ".github/workflows/pdf.yml"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   pdf:
@@ -19,6 +23,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Bump version and push tag
+        if: github.event_name == 'push'
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          default_bump: patch
+          release_branches: main
 
       - uses: actions/setup-python@v5
         with:
@@ -34,11 +47,21 @@ jobs:
 
       - name: Build Chanukka PDFs
         run: |
-          ./build proof
-          ./build a5
+          VER="${{ steps.tag_version.outputs.new_tag }}"
+          if [ -z "$VER" ]; then
+            VER="$(./scripts/version.sh)"
+          fi
+          ./build proof --version "$VER"
+          ./build a5 --version "$VER"
 
-      - name: Upload PDFs
-        uses: actions/upload-artifact@v4
+      - name: Commit archived PDFs
+        if: github.event_name == 'push' && steps.tag_version.outputs.new_tag != ''
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Build: Update archived PDFs to ${{ steps.tag_version.outputs.new_tag }} [skip ci]"
+          file_pattern: "archive/*.pdf"
+
+      - uses: actions/upload-artifact@v4
         with:
           name: schewach-hamoadim-chanukka-pdf
           path: |
