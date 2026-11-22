@@ -3,6 +3,10 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 BASE="$(tr -d '[:space:]' < "$ROOT/VERSION")"
 if git -C "$ROOT" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+    LATEST_TAG="$(git -C "$ROOT" describe --tags --abbrev=0 2>/dev/null || true)"
+    if [[ -n "$LATEST_TAG" ]]; then
+        BASE="${LATEST_TAG#v}"
+    fi
     REV="$(git -C "$ROOT" rev-list --count HEAD 2>/dev/null || echo 0)"
     HASH="$(git -C "$ROOT" rev-parse --short HEAD 2>/dev/null || echo "init")"
     DIRTY=""
