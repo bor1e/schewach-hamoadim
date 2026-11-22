@@ -89,7 +89,7 @@
     #v(1.2em)
     #text(size: 13pt, weight: "bold")[Chanukka]
     #v(0.4em)
-    #text(size: 9.5pt, fill: muted)[Deutsche Übersetzung (MVP)]
+    #text(size: 9.5pt, fill: muted)[Deutsche Übersetzung]
     #v(2em)
     #let ver = "{{VERSION}}"
     #if ver != "" {
