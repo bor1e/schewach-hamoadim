@@ -32,23 +32,17 @@
   }
 )
 
-#show heading.where(level: 1): it => {
-  v(0.8em)
-  text(size: 15pt, weight: "bold", fill: accent, it.body)
-  v(0.4em)
-}
+#show heading.where(level: 1): it => block(sticky: true, above: 1.2em, below: 0.6em)[
+  #text(size: 15pt, weight: "bold", fill: accent, it.body)
+]
 
-#show heading.where(level: 2): it => {
-  v(0.8em, weak: true)
-  text(size: 11.5pt, weight: "bold", fill: accent, it.body)
-  v(0.25em)
-}
+#show heading.where(level: 2): it => block(sticky: true, above: 1.0em, below: 0.35em)[
+  #text(size: 11.5pt, weight: "bold", fill: accent, it.body)
+]
 
-#show heading.where(level: 3): it => {
-  v(0.5em, weak: true)
-  text(size: 10.5pt, weight: "bold", it.body)
-  v(0.15em)
-}
+#show heading.where(level: 3): it => block(sticky: true, above: 0.7em, below: 0.25em)[
+  #text(size: 10.5pt, weight: "bold", it.body)
+]
 
 #let heb(content) = {
   show "\"": "״"
