@@ -1,0 +1,72 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SECTION="chanukka"
+TARGET="proof"
+VERSION="__auto__"
+NO_REDAKTION=0
+NO_FOOTNOTES=0
+
+usage() {
+    echo "Usage: ./build [proof|a5] [--section <name>] [--version <ver|none>] [--no-redaktion] [--no-footnotes]"
+    exit 1
+}
+
+if [[ $# -gt 0 && "${1:-}" != --* ]]; then
+    TARGET="$1"
+    shift
+fi
+
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --section) SECTION="$2"; shift 2 ;;
+        --version) VERSION="$2"; shift 2 ;;
+        --no-redaktion) NO_REDAKTION=1; shift ;;
+        --no-footnotes) NO_FOOTNOTES=1; shift ;;
+        *) echo "Unknown option: $1"; usage ;;
+    esac
+done
+
+INPUT_DIR="$SCRIPT_DIR/input/$SECTION"
+if [[ ! -d "$INPUT_DIR" ]]; then
+    echo "Error: input directory not found: $INPUT_DIR" >&2
+    exit 1
+fi
+
+shopt -s nullglob
+FILES=("$INPUT_DIR"/[0-9]*.md)
+if [[ ${#FILES[@]} -eq 0 ]]; then
+    echo "Error: no numbered markdown files found in $INPUT_DIR" >&2
+    exit 1
+fi
+
+if [[ "$VERSION" == "__auto__" ]]; then
+    VERSION="$("$SCRIPT_DIR/scripts/version.sh")"
+elif [[ "$VERSION" == "none" ]]; then
+    VERSION=""
+fi
+
+FLAGS=()
+[[ $NO_REDAKTION -eq 1 || "$TARGET" == "a5" ]] && FLAGS+=(--no-redaktion)
+[[ $NO_FOOTNOTES -eq 1 ]] && FLAGS+=(--no-footnotes)
+
+case "$TARGET" in
+    proof) TPL="$SCRIPT_DIR/templates/typst/proof-a5.typ"; OUT="$SCRIPT_DIR/dist/proof-a5" ;;
+    a5)    TPL="$SCRIPT_DIR/templates/typst/book-a5.typ";  OUT="$SCRIPT_DIR/dist/pdf-a5" ;;
+    *)     echo "Unknown target: $TARGET"; usage ;;
+esac
+
+python3 "$SCRIPT_DIR/scripts/build_pdf.py" "${FILES[@]}" -o "$OUT" --template "$TPL" --version "$VERSION" ${FLAGS[@]+"${FLAGS[@]}"}
+typst compile --root "$SCRIPT_DIR" --font-path "$SCRIPT_DIR/fonts" "$OUT/book.typ"
+echo "Done: $OUT/book.pdf"
+
+BASE_VER="$(tr -d '[:space:]' < "$SCRIPT_DIR/VERSION")"
+mkdir -p "$SCRIPT_DIR/archive"
+if [[ "$TARGET" == "a5" && $NO_FOOTNOTES -eq 0 ]]; then
+    cp "$OUT/book.pdf" "$SCRIPT_DIR/archive/${SECTION}-v${BASE_VER}.pdf"
+    echo "Archived: archive/${SECTION}-v${BASE_VER}.pdf"
+elif [[ "$TARGET" == "proof" && $NO_FOOTNOTES -eq 0 ]]; then
+    cp "$OUT/book.pdf" "$SCRIPT_DIR/archive/${SECTION}-proof-v${BASE_VER}.pdf"
+    echo "Archived: archive/${SECTION}-proof-v${BASE_VER}.pdf"
+fi

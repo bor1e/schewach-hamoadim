@@ -1,0 +1,46 @@
+name: Build PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "input/**"
+      - "templates/**"
+      - "scripts/**"
+      - "fonts/**"
+      - "build"
+      - "VERSION"
+  workflow_dispatch:
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install pyyaml
+
+      - name: Install Typst
+        uses: typst-community/setup-typst@v4
+        with:
+          typst-version: "0.14.2"
+
+      - name: Build Chanukka PDFs
+        run: |
+          ./build proof
+          ./build a5
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: schewach-hamoadim-chanukka-pdf
+          path: |
+            dist/proof-a5/book.pdf
+            dist/pdf-a5/book.pdf
