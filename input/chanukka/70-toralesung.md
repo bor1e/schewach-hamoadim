@@ -15,11 +15,11 @@ Am ersten Tag liest man für den *Kohen* von *Wajehi bejom kallot* bis *lachanuk
 
 Am zweiten Tag teilt man die Lesung von *Bajom hascheni* („Am zweiten Tag“) zwischen *Kohen* und *Lewi* auf, und für den *Jisrael* liest man *Bajom haschlischi* („Am dritten Tag“). Ebenso teilt man an den übrigen Tagen die Lesung des jeweiligen Tages auf *Kohen* und *Lewi* auf und liest für den *Jisrael* den Abschnitt des folgenden Tages.
 
-Am achten Tag liest man für *Kohen* und *Lewi* *Bajom haschemini*, und für den *Jisrael* liest man *Bajom hateschi’i* und fährt bis zum Ende des Abschnitts sowie bis zum Beginn von *Beha’alotcha* bis *ken assa et hamenora* fort.{{fn:1}}
+Am achten Tag liest man für *Kohen* und *Lewi* *Bajom haschemini*, und für den *Jisrael* liest man *Bajom hateschi’i* und fährt bis zum Ende des Abschnitts sowie den Beginn von *Beha’alotcha* bis *ken assa et hamenora* fort.{{fn:1}}
 
 ## Absatz 2: Am *Schabbat*
 
-Fällt ein *Schabbat* in Chanukka, hebt man zwei Torarollen aus. Aus der ersten liest man den regulären Wochenabschnitt und ruft sieben Personen auf; aus der zweiten liest man als *Maftir* ausschließlich die Opfergabe des Fürsten für diesen Tag. Als *Haftara* liest man beim Propheten *Roni wesimchi*. Fallen zwei *Schabbatot* in Chanukka, liest man am zweiten *Schabbat* als *Haftara* *Waja’as Chirom*.{{fn:2}}
+Fällt ein *Schabbat* in Chanukka, hebt man zwei Torarollen aus. Aus der ersten liest man den regulären Wochenabschnitt und ruft sieben Personen auf; aus der zweiten liest man als *Maftir* ausschließlich die Opfergabe des Fürsten für diesen Tag. Als *Haftara* folgt der Prophetenabschnitt *Roni wesimchi*. Fallen zwei *Schabbatot* in Chanukka, nimmt man am zweiten *Schabbat* als *Haftara* *Waja’as Chirom*.{{fn:2}}
 
 ## Absatz 3: An *Rosch Chodesch Tewet* an einem Werktag
 

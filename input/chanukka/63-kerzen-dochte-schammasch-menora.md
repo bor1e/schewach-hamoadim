@@ -27,7 +27,7 @@ In Absatz 3 wird „bis zur vorgeschriebenen Menge“ (*kesch’uro*) erwähnt, 
 
 Die Lichter müssen in einer geraden Reihe nebeneinander stehen und nicht im Kreis, damit sie nicht wie ein Lagerfeuer wirken. Auch soll nicht ein Licht aus der Reihe hervorstehen und ein anderes zurückgesetzt sein, und nicht eines höher und eines tiefer stehen.
 
-Zwischen den einzelnen Lichtern muss ein Abstand bleiben, damit die Flammen einander nicht zu nahe kommen und nicht wie ein einziges Feuer aussehen. Wenn man Wachskerzen verwendet, sorgt der Abstand außerdem dafür, dass sie sich nicht gegenseitig erhitzen, das Wachs schmilzt und sie sich verformen.{{fn:7}}
+Zwischen den einzelnen Lichtern muss ein Abstand bleiben, damit die Flammen einander nicht zu nahe kommen und nicht wie ein einziges Feuer aussehen. Wenn man Wachskerzen verwendet, sorgt der Abstand außerdem dafür, dass sie sich nicht gegenseitig erhitzen, kein Wachs schmilzt und sie sich nicht verformen.{{fn:7}}
 
 ## Absatz 5: Die Dochte
 
@@ -43,22 +43,18 @@ Wer gebrauchte Dochte wiederverwendet, sollte darauf achten, den Docht vom vorig
 
 Es ist Brauch, dass der *Schammasch* – die Kerze, mit der man die Chanukka-Lichter anzündet – aus Wachs besteht.{{fn:13}} Man stellt ihn höher als die übrigen Lichter{{fn:14}} oder macht ihn länger als die anderen Kerzen.{{fn:15}} Am besten steht er hinter den Lichtern und auf der linken Seite.{{fn:16}}
 
-:::redaktion
-*Schammasch* wird hier direkt im Satz erklärt („die Kerze, mit der man die Chanukka-Lichter anzündet“). Für Einsteiger ist damit sofort klar, welche Funktion diese zusätzliche Kerze hat.
-:::
-
 ## Absatz 8: Die *Menora*
 
 Es ist schön, eine ansehnliche *Menora* aus Metall zu besitzen; und wer es sich leisten kann, kauft sich zur Verschönerung der *Mitzwa* eine *Menora* aus Silber.{{fn:17}}
 
 ## Absatz 9: Reste von Öl und Dochten
 
-Öl- und Docht-Reste, die nach dem Brennen in der *Menora* übrig bleiben, verbrennt man nach Chanukka in einem kleinen Feuer, da sie für ihre *Mitzwa* bestimmt waren und man keinen alltäglichen Nutzen aus ihnen ziehen darf – es sei denn, man hat vorab innerlich festgelegt, die Reste nicht dafür zu binden.{{fn:18}}
+Öl- und Dochtreste, die nach dem Brennen in der *Menora* übrig bleiben, verbrennt man nach Chanukka in einem kleinen Feuer, da sie für ihre *Mitzwa* bestimmt waren und man keinen alltäglichen Nutzen aus ihnen ziehen darf – es sei denn, man hat vorab innerlich festgelegt, die Reste nicht dafür zu binden.{{fn:18}}
 
-Das Öl hingegen, das noch in der Flasche zurückbleibt, die für Chanukka vorgesehen war, darf auch während Chanukka ohne Weiteres anderweitig verwendet werden, denn bloße Vorbereitung macht einen Gegenstand noch nicht gebunden.{{fn:19}}
+Das Öl hingegen, das noch in der Flasche zurückbleibt, die für Chanukka vorgesehen war, darf auch während Chanukka ohne Weiteres anderweitig verwendet werden, denn bloße Vorbereitung bindet einen Gegenstand noch nicht.{{fn:19}}
 
 :::footnote 1
-*Rema* und *Lewusch*, Kapitel 673, Absatz 1. *Schulchan Aruch Haraw*, Kapitel 264, Absatz 12. Der Grund: Olivenöl gibt ein klares, reines Licht; außerdem zündete man damit die *Menora* im Tempel an, und an ihm geschah das Wunder (*Lewusch* ebenda).
+*Rema* und *Lewusch*, Kapitel 673, Absatz 1. *Schulchan Aruch Haraw*, Kapitel 264, Absatz 12. Der Grund: Olivenöl gibt ein klares, reines Licht; außerdem zündete man damit die *Menora* im Tempel an, und mit diesem Öl geschah das Wunder (*Lewusch* ebenda).
 :::
 
 :::footnote 2
@@ -70,7 +66,7 @@ Das Öl hingegen, das noch in der Flasche zurückbleibt, die für Chanukka vorge
 :::
 
 :::footnote 4
-*Scha’ar Efraim*, Kapitel 32, *Elija Rabba*, Kapitel 673, Unterabsatz 2, und *Ba’er Hetew* ebenda, Unterabsatz 1, sind streng; *Birkej Josef*, Unterabsatz 2, *Scha’arej Teschuwa*, Unterabsatz 1, und *Pri Megadim*, Kapitel 676 (*Eshel Avraham*, Unterabsatz 1), erlauben es – mit der Begründung, dass jeder an seinem eigenen Platz zündet und somit erkennbar bleibt, dass eine einzige Person sie entzündet hat und wie viele Lichter an diesem Abend brennen.
+*Scha’ar Efraim*, Kapitel 32, *Elija Rabba*, Kapitel 673, Unterabsatz 2, und *Ba’er Hetew* ebenda, Unterabsatz 1, sind streng; *Birkej Josef*, Unterabsatz 2, *Scha’arej Teschuwa*, Unterabsatz 1, und *Pri Megadim*, Kapitel 676 (*Eschel Awraham*, Unterabsatz 1), erlauben es – mit der Begründung, dass jeder an seinem eigenen Platz zündet und somit erkennbar bleibt, dass eine einzige Person die Lichter entzündet hat und wie viele Lichter an diesem Abend brennen.
 :::
 
 :::footnote 5
@@ -106,11 +102,11 @@ Zusammengestellt aus *Rema* ebenda, Absatz 4, *Mate Mosche*, Nr. 988, und *Kizzu
 :::
 
 :::footnote 13
-*Sefer Haminhagim*, S. 69. Der Grund: Eine Wachskerze steht beim Olivenöl an zweiter Stelle (nach *Rema*, Kapitel 671, Absatz 1), und aus Olivenöl macht man keinen *Schammasch*, weil ein Öllämpchen nicht bequem zu handhaben ist – und zudem, damit der *Schammasch* sich deutlich von den Chanukka-Lichtern unterscheidet. Siehe auch *Kehillat Ja’akow*, Stichwort *Scha’awa*.
+*Sefer Haminhagim*, S. 69. Der Grund: Eine Wachskerze steht nach dem Olivenöl an zweiter Stelle (nach *Rema*, Kapitel 671, Absatz 1), und aus Olivenöl macht man keinen *Schammasch*, weil ein Öllämpchen nicht bequem zu handhaben ist – und zudem, damit der *Schammasch* sich deutlich von den Chanukka-Lichtern unterscheidet. Siehe auch *Kehillat Ja’akow*, Stichwort *Scha’awa*.
 :::
 
 :::footnote 14
-*Maharil*, *Hilchot Chanukka*. *Magen Awraham*, Kapitel 671, Unterabsatz 7. *Kizzur Schulchan Aruch*, Kapitel 139, Absatz 14. Eine Andeutung darauf liegt im Vers: „Serafim (die Diener) stehen über ihm“ – „ihm“ (*לו*) hat den Zahlenwert 36, entsprechend den 36 Lichtern, die man an Chanukka entzündet (*Maharil* und *Mate Mosche* ebenda). In *Jesod Josef* (Kapitel 80), *Kaw Hajaschar* (Kapitel 96) und *Likutej Sichot* (Bd. 10, S. 315) wird erklärt, dass der *Schammasch* ein Bild für den Priester ist, der die Lichter entzündet.
+*Maharil*, *Hilchot Chanukka*. *Magen Awraham*, Kapitel 671, Unterabsatz 7. *Kizzur Schulchan Aruch*, Kapitel 139, Absatz 14. Eine Andeutung darauf liegt im Vers: „Serafim (die Diener) stehen über ihm“ – „ihm“ (`לו`) hat den Zahlenwert 36, entsprechend den 36 Lichtern, die man an Chanukka entzündet (*Maharil* und *Mate Mosche* ebenda). In *Jesod Josef* (Kapitel 80), *Kaw Hajaschar* (Kapitel 96) und *Likutej Sichot* (Bd. 10, S. 315) wird erklärt, dass der *Schammasch* ein Bild für den Priester ist, der die Lichter entzündet.
 :::
 
 :::footnote 15
@@ -118,7 +114,7 @@ Zusammengestellt aus *Rema* ebenda, Absatz 4, *Mate Mosche*, Nr. 988, und *Kizzu
 :::
 
 :::footnote 16
-So habe ich es von *Rabbi S. Sch. Dworkin* gehört.
+So habe ich es von Rabbi S. Sch. Dworkin gehört.
 :::
 
 :::footnote 17

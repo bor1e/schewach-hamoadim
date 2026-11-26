@@ -9,7 +9,7 @@ section: chanukka
 
 ## Absatz 1: Die Pflicht
 
-Das Entzünden des Chanukka-Lichts ist eine besonders kostbare *Mitzwa*. Deshalb sollte man sorgfältig auf sie achten, um das Wunder bekannt zu machen und G”tt für die Wunder, die Er unseren Vorfahren getan hat, noch mehr zu loben und zu danken.{{fn:1}}
+Das Entzünden des Chanukka-Lichts ist eine besonders kostbare *Mitzwa*. Deshalb sollte man sorgfältig auf sie achten, um das Wunder bekannt zu machen und G”tt noch mehr zu loben und Ihm für die Wunder zu danken, die Er unseren Vorfahren getan hat.{{fn:1}}
 
 Selbst ein armer Mensch, der von *Tzedaka* lebt, leiht sich Geld oder verkauft sogar ein Kleidungsstück, um Öl für die Chanukka-Lichter zu kaufen.{{fn:2}} Und wer auf diese *Mitzwa* achtet, verdient es, Kinder zu haben, die Gelehrte der *Tora* werden.{{fn:3}}
 
@@ -43,10 +43,10 @@ Ebenso kann der Gastgeber dem Gast etwas Öl schenken – dann gilt es so, als h
 
 ## Absatz 7: Der Segensspruch beim Sehen der Lichter
 
-Wer selbst keine Chanukka-Lichter entzündet hat, in jener Nacht auch nicht mehr zünden wird und für den auch zu Hause niemand zündet, spricht beim Anblick brennender Chanukka-Lichter den Segensspruch *Sche’assa Nissim* („der Wunder getan hat“). In der ersten Nacht spricht er außerdem *Schehechejanu*.{{fn:11}}
+Wer selbst keine Chanukka-Lichter entzündet hat, in jener Nacht auch nicht mehr zünden wird und für den auch zu Hause niemand zündet, spricht beim Anblick brennender Chanukka-Lichter den Segensspruch *Sche’assa nissim* („der Wunder getan hat“). In der ersten Nacht spricht er außerdem *Schehechejanu*.{{fn:11}}
 
 :::redaktion
-In Absatz 7 werden die beiden Segenssprüche nicht ausgeschrieben, sondern nur mit ihren Anfangsworten genannt (Kapitel 66 bringt den vollständigen Wortlaut). Ggf. in Kapitel 66 darauf zurückverweisen.
+In Absatz 7 werden die beiden Segenssprüche nicht ausgeschrieben, sondern nur mit ihren Anfangsworten genannt (auch Kapitel 66 nennt nur die Anfangsworte und ihre Kurzbedeutung). Prüfen, ob eine kurze Übersicht mit dem vollständigen Wortlaut gewünscht ist.
 :::
 
 :::footnote 1
@@ -54,7 +54,7 @@ In Absatz 7 werden die beiden Segenssprüche nicht ausgeschrieben, sondern nur m
 :::
 
 :::footnote 2
-*Tur* und *Schulchan Aruch*, Kapitel 671, Absatz 1. Allerdings muss man sich Geld leihen oder seine Kleidung verkaufen nur für ein einziges Licht pro Abend, da dies der eigentliche Kern der *Mitzwa* ist (*Elija Rabba* ebenda, Unterabsatz 1).
+*Tur* und *Schulchan Aruch*, Kapitel 671, Absatz 1. Allerdings muss man sich nur für ein einziges Licht pro Abend Geld leihen oder seine Kleidung verkaufen, da dies der eigentliche Kern der *Mitzwa* ist (*Elija Rabba* ebenda, Unterabsatz 1).
 :::
 
 :::footnote 3
@@ -70,7 +70,7 @@ In Absatz 7 werden die beiden Segenssprüche nicht ausgeschrieben, sondern nur m
 :::
 
 :::footnote 6
-Im *Mischmeret Schalom* (Kojdenow), Kapitel 48, Unterabsatz 2, wird als Grund genannt, dass viele Frauen früher nicht wussten, wie man die Segenssprüche spricht, und deshalb alle den Brauch annahmen, durch andere einbezogen zu werden; zitiert im *Sefer Haminhagim*, S. 69. Der *Chatam Sofer* schreibt in seinen Erklärungen (*Schabbat* 21b, Leitwort *Wehamehadrin*): Als unsere Weisen festlegten, draußen am Hauseingang zu zünden, zündeten Frauen nicht selbst, weil es für eine Frau nicht würdig war, am Abend draußen auf der Straße zwischen den Leuten zu zünden; deshalb zünden sie auch heute, da man drinnen zündet, nicht selbst, weil diese Verpflichtung für sie nie so galt, wenn der Hausherr zündet.
+Im *Mischmeret Schalom* (Kojdenow), Kapitel 48, Unterabsatz 2, wird als Grund genannt, dass viele Frauen früher nicht wussten, wie man die Segenssprüche spricht, und deshalb alle den Brauch annahmen, durch andere einbezogen zu werden; zitiert im *Sefer Haminhagim*, S. 69. Der *Chatam Sofer* schreibt in seinen Erklärungen (*Schabbat* 21b, Leitwort *Wehamehadrin*): Als unsere Weisen festlegten, draußen am Hauseingang zu zünden, taten Frauen dies nicht selbst, weil es für eine Frau nicht würdig war, am Abend draußen auf der Straße zwischen den Leuten Lichter anzuzünden; deshalb bleiben sie auch heute, da man die Lichter im Haus entzündet, bei diesem Brauch, weil diese Verpflichtung für sie nie galt, solange der Hausherr zündet.
 :::
 
 :::footnote 7
@@ -82,7 +82,7 @@ Im *Mischmeret Schalom* (Kojdenow), Kapitel 48, Unterabsatz 2, wird als Grund ge
 :::
 
 :::footnote 9
-In *Kuntres Hitkaschrut*, Heft 1010, S. 12, wird berichtet, dass man dem *Rebben* den Entwurf einer Chanukka-Mitteilung vorlegte, in der stand, „dass sogar Kinder ihre eigene Menora anzünden sollen“ – und der Rebbe fügte hinzu: „vor der Bar Mitzwa, sobald sie das Erziehungsalter erreicht haben“.
+In *Kuntres Hitkaschrut*, Heft 1010, S. 12, wird berichtet, dass man dem Rebben den Entwurf einer Chanukka-Mitteilung vorlegte, in der stand, „dass sogar Kinder ihre eigene Menora anzünden sollen“ – und der Rebbe fügte hinzu: „vor der Bar Mitzwa, sobald sie das Erziehungsalter erreicht haben“.
 :::
 
 :::footnote 10

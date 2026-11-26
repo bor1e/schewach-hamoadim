@@ -33,13 +33,9 @@ Am Freitag vor *Schabbat* sollte man darauf achten, die Lichter nicht unmittelba
 
 ## Absatz 6: Bewegen des Stuhls mit den Lichtern am *Schabbat*
 
-Sobald der *Schabbat* begonnen hat, darf man die *Menora*, die Lichter und auch den Stuhl, auf dem sie stehen, nicht mehr bewegen oder verschieben – denn der Stuhl ist zu einer Unterlage für Verbotenes (*Mukze*) geworden, nämlich für die *Menora* und die Flamme.
+Sobald der *Schabbat* begonnen hat, darf man die *Menora*, die Lichter und auch den Stuhl, auf dem sie stehen, nicht mehr bewegen oder verschieben – denn der Stuhl ist zu einer Unterlage für Verbotenes geworden, nämlich für die *Menora* und die Flamme.
 
 Legt man jedoch am Freitag vor *Schabbat* einen wichtigen erlaubten Gegenstand – etwa *Challa* oder Ähnliches, das man für *Schabbat* benötigt – mit auf denselben Stuhl, wird der Stuhl zu einer Unterlage für Verbotenes und Erlaubtes zugleich. Dann darf man ihn am *Schabbat* bewegen, sobald die Lichter erloschen sind.{{fn:10}}{{fn:11}}
-
-:::redaktion
-Begriff *Basis ledawar ha’assur* („Unterlage für Verbotenes“) / *Mukze*: Hier bewusst schlicht ohne hebräischen Fachbegriff übersetzt, da der Satz die Logik bereits aus sich heraus erklärt.
-:::
 
 ## Absatz 7: Am Ausgang des *Schabbat*
 
@@ -54,11 +50,11 @@ Nach *Plag Hamincha* (*Magen Awraham* ebenda, Unterabsatz 2); das ist eineinvier
 :::
 
 :::footnote 3
-Da die Tage an Chanukka kurz sind und der Tag hier rund neunേviertel Stunden dauert, liegt *Plag Hamincha* etwa achtundfünfzig Minuten vor Sonnenuntergang (*der Verfasser*).
+Da die Tage an Chanukka kurz sind und der Tag hier rund neuneinviertel Stunden dauert, liegt *Plag Hamincha* etwa achtundfünfzig Minuten vor Sonnenuntergang (*der Verfasser*).
 :::
 
 :::footnote 4
-Nach *Pri Megadim*, Kapitel 671, *Eshel Avraham*, Unterabsatz 10; *Birkej Josef*, Kapitel 679, Unterabsatz 2; *Scha’arej Teschuwa* ebenda; *Sefer Haminhagim*, S. 71. Der Grund, warum *Mincha* vor dem Entzünden gebetet wird: *Mincha* entspricht dem täglichen Nachmittagsopfer (*Tamid*), und die Chanukka-Lichter erinnern an die *Menora*, die nach dem Nachmittagsopfer angezündet wurde (*Scha’arej Teschuwa* ebenda). Außerdem soll kein Widerspruch entstehen, da die Lichter bereits zum kommenden Tag gehören, *Mincha* aber noch zum vergehenden Tag (*Pri Megadim* ebenda).
+Nach *Pri Megadim*, Kapitel 671, *Eschel Awraham*, Unterabsatz 10; *Birkej Josef*, Kapitel 679, Unterabsatz 2; *Scha’arej Teschuwa* ebenda; *Sefer Haminhagim*, S. 71. Der Grund, warum *Mincha* vor dem Entzünden gebetet wird: *Mincha* entspricht dem täglichen Nachmittagsopfer (*Tamid*), und die Chanukka-Lichter erinnern an die *Menora*, die nach dem Nachmittagsopfer angezündet wurde (*Scha’arej Teschuwa* ebenda). Außerdem soll kein Widerspruch entstehen, da die Lichter bereits zum kommenden Tag gehören, *Mincha* aber noch zum vergehenden Tag (*Pri Megadim* ebenda).
 :::
 
 :::footnote 5
@@ -66,7 +62,7 @@ Nach *Pri Megadim*, Kapitel 671, *Eshel Avraham*, Unterabsatz 10; *Birkej Josef*
 :::
 
 :::footnote 6
-*Kizzur Schulchan Aruch*, Kapitel 139, Absatz 17. Siehe jedoch *Pri Megadim*, Kapitel 679, *Eshel Avraham*, Unterabsatz 2, dass dies nicht ganz eindeutig ist (*Misgeret Haschulchan* ebenda). Siehe auch oben Kapitel 66, Absatz 5 und Fußnote 7.
+*Kizzur Schulchan Aruch*, Kapitel 139, Absatz 17. Siehe jedoch *Pri Megadim*, Kapitel 679, *Eschel Awraham*, Unterabsatz 2, dass dies nicht ganz eindeutig ist (*Misgeret Haschulchan* ebenda). Siehe auch oben Kapitel 66, Absatz 5 und Fußnote 7.
 :::
 
 :::footnote 7
@@ -86,7 +82,7 @@ Man darf den Stuhl samt der *Menora* darauf bewegen, wenn man den Platz des Stuh
 :::
 
 :::footnote 11
-Solange die Lichter jedoch noch brennen, darf man ihn nicht bewegen, aus Sorge, dass die Lichter durch die Bewegung erlöschen – besonders bei Öllichtern, bei denen das Öl zum Docht schwappen oder sich von ihm entfernen könnte, sodass man gegen das Verbot des Entzündens oder Auslöschens verstößt; es sei denn, man ist sicher, ihn so ruhig und behutsam versetzen zu können, dass keine solche Gefahr besteht (nach *Schulchan Aruch Haraw*, Kapitel 277, Absatz 3).
+Solange die Lichter jedoch noch brennen, darf man den Stuhl nicht bewegen, aus Sorge, dass die Lichter durch die Bewegung erlöschen – besonders bei Öllichtern, bei denen das Öl zum Docht schwappen oder sich von ihm entfernen könnte, sodass man gegen das Verbot des Entzündens oder Auslöschens verstößt; es sei denn, man ist sicher, ihn so ruhig und behutsam versetzen zu können, dass keine solche Gefahr besteht (nach *Schulchan Aruch Haraw*, Kapitel 277, Absatz 3).
 :::
 
 :::footnote 12

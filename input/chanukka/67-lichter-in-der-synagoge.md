@@ -13,7 +13,7 @@ Auch in der Synagoge entzündet man Chanukka-Lichter, um das Wunder öffentlich 
 
 ## Absatz 2: Zeit des Entzündens
 
-In der Synagoge entzündet man die Lichter zwischen *Mincha* und *Ma’ariw*, nach *Plag Hamincha*, solange es noch Tag ist.{{fn:3}} Man spricht die Segenssprüche darüber, wenn zehn Männer anwesend sind. Am Freitag kurz vor *Schabbat*-Eingang spricht man die Segenssprüche selbst dann, wenn noch kein *Minjan* zusammen ist, weil die Beter kurz darauf eintreffen und das Wunder so vor der Gemeinde verkündet wird.{{fn:4}}
+In der Synagoge entzündet man die Lichter zwischen *Mincha* und *Ma’ariw*, nach *Plag Hamincha*, solange es noch Tag ist.{{fn:3}} Man spricht die Segenssprüche darüber, wenn zehn Männer anwesend sind. Am Freitag kurz vor Schabbateingang spricht man die Segenssprüche selbst dann, wenn noch kein *Minjan* zusammen ist, weil die Beter kurz darauf eintreffen und das Wunder so vor der Gemeinde verkündet wird.{{fn:4}}
 
 ## Absatz 3
 
@@ -23,28 +23,24 @@ In *Chabad*-Synagogen ist es Brauch, die Lichter im *Mincha*-Gebet vor dem *Alej
 
 Niemand erfüllt seine persönliche Pflicht durch die Lichter in der Synagoge. Selbst der Vorbeter, der sie dort entzündet hat, muss nach Hause gehen und dort noch einmal zünden. Zu Hause spricht er jedoch nicht noch einmal den Segensspruch *Schehechejanu*, es sei denn, er zündet dort auch für seine Frau und seine Familie mit.{{fn:6}}
 
-:::redaktion
-Begriff „Vorbeter“ (*Schatz*): Im Hebräischen steht *Schatz* (*Scheliach Tzibbur*). „Vorbeter“ trifft das schlicht und ohne Abkürzung.
-:::
-
 ## Absatz 5: Beim Morgengebet
 
-Es ist Brauch, die Chanukka-Lichter in der Synagoge auch während des Morgengebets (*Schacharit*) ohne Segensspruch zu entzünden.{{fn:7}} Auch dann zündet man den *Schammasch* mit an.{{fn:8}}
+Es ist Brauch, die Chanukka-Lichter in der Synagoge auch während des Morgengebets ohne Segensspruch zu entzünden.{{fn:7}} Auch dann zündet man den *Schammasch* mit an.{{fn:8}}
 
 ## Absatz 6: Den ganzen Tag über
 
-Es ist wünschenswert, dass die *Chanukka-Menora* in einer Synagoge, in der sich viele Menschen versammeln, rund um die Uhr brennt, um die Freude und Aufmerksamkeit für die Chanukka-Lichter zu mehren – vorausgesetzt, es besteht keinerlei Gefahr, dass kleine Kinder damit spielen.{{fn:9}}
+Es ist wünschenswert, dass die Chanukka-*Menora* in einer Synagoge, in der sich viele Menschen versammeln, rund um die Uhr brennt, um die Freude und Aufmerksamkeit für die Chanukka-Lichter zu mehren – vorausgesetzt, es besteht keinerlei Gefahr, dass kleine Kinder damit spielen.{{fn:9}}
 
 :::footnote 1
 *Schulchan Aruch*, *Rema* und *Taz*, Kapitel 671, Absatz 7.
 :::
 
 :::footnote 2
-*Pri Megadim*, Kapitel 675, *Eshel Avraham*, Unterabsatz 2. *Mischna Berura*, Kapitel 671, Unterabsatz 27.
+*Pri Megadim*, Kapitel 675, *Eschel Awraham*, Unterabsatz 2. *Mischna Berura*, Kapitel 671, Unterabsatz 27.
 :::
 
 :::footnote 3
-Zwischen *Mincha* und *Ma’ariw* (*Rema* ebenda); solange es noch heller Tag ist (*Bach*, Kapitel 672); und nach *Plag Hamincha* (*Pri Megadim*, Kapitel 679, *Eshel Avraham*, Unterabsatz 2). Der Grund, sie in der Synagoge nach *Mincha* zu entzünden, ist das öffentliche Verkünden des Wunders: Würde man sie erst nach *Ma’ariw* anzünden, gäbe es keine Öffentlichkeit mehr, weil dann alle die Synagoge verlassen (*Responsen Schaw Ja’akow*, Kapitel 22).
+Zwischen *Mincha* und *Ma’ariw* (*Rema* ebenda); solange es noch heller Tag ist (*Bach*, Kapitel 672); und nach *Plag Hamincha* (*Pri Megadim*, Kapitel 679, *Eschel Awraham*, Unterabsatz 2). Der Grund, sie in der Synagoge nach *Mincha* zu entzünden, ist das öffentliche Verkünden des Wunders: Würde man sie erst nach *Ma’ariw* anzünden, gäbe es keine Öffentlichkeit mehr, weil dann alle die Synagoge verlassen (*Responsen Schaw Ja’akow*, Kapitel 22).
 :::
 
 :::footnote 4
@@ -52,7 +48,7 @@ Zwischen *Mincha* und *Ma’ariw* (*Rema* ebenda); solange es noch heller Tag is
 :::
 
 :::footnote 5
-So war der Brauch im *Minjan* des *Rebben*.
+So war der Brauch im *Minjan* des Rebben.
 :::
 
 :::footnote 6
@@ -60,11 +56,11 @@ So war der Brauch im *Minjan* des *Rebben*.
 :::
 
 :::footnote 7
-*Mekor Chajim* (vom Verfasser des *Chawat Ja’ir*) in den *Kizzur Halachot* am Ende des Buches, Kapitel 672, Absatz 2; *Pri Megadim*, Kapitel 670, *Eshel Avraham*, Unterabsatz 2; *Responsen Binjan Schlomo*, Kapitel 53. Dies ist eine Erinnerung an den Tempel, wo nach Ansicht des *Rambam* beim morgendlichen Reinigen der *Menora* erloschene Lichter wieder angezündet wurden.
+*Mekor Chajim* (vom Verfasser des *Chawat Ja’ir*) in den *Kizzur Halachot* am Ende des Buches, Kapitel 672, Absatz 2; *Pri Megadim*, Kapitel 670, *Eschel Awraham*, Unterabsatz 2; *Responsen Binjan Schlomo*, Kapitel 53. Dies ist eine Erinnerung an den Tempel, wo nach Ansicht des *Rambam* beim morgendlichen Reinigen der *Menora* erloschene Lichter wieder angezündet wurden.
 :::
 
 :::footnote 8
-*Likutej Sichot*, Bd. 10, S. 315. Man kann als Grund für das Entzünden des *Schammasch* auch am Tag nennen, dass man sich nicht versehentlich daran vergeht, ein Licht am anderen mit einem Span anzuzünden. Und außerdem stellt der *Schammasch* den Priester dar, der die Lichter entzündet – damit erklärt sich auch die Frage, warum der *Schammasch* höher steht als die anderen Lichter und unsere Weisen als Hinweis den Vers anführen: „Serafim (Diener) stehen über ihm“ (*Likutej Sichot* ebenda; siehe oben Kapitel 63, Fußnote 14).
+*Likutej Sichot*, Bd. 10, S. 315. Man kann als Grund für das Entzünden des *Schammasch* auch am Tag nennen, dass man nicht versehentlich in Gefahr gerät, ein Licht mit einem Span am anderen anzuzünden. Und außerdem stellt der *Schammasch* den Priester dar, der die Lichter entzündet – damit erklärt sich auch die Frage, warum der *Schammasch* höher steht als die anderen Lichter und unsere Weisen als Hinweis den Vers anführen: „Serafim (Diener) stehen über ihm“ (*Likutej Sichot* ebenda; siehe oben Kapitel 63, Fußnote 14).
 :::
 
 :::footnote 9

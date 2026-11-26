@@ -24,30 +24,57 @@ def escape_typst(text: str) -> str:
     return text
 
 
-def format_inline(text: str, footnotes: dict[str, str], include_footnotes: bool = True) -> str:
+def format_inline(
+    text: str,
+    footnotes: dict[str, str],
+    include_footnotes: bool = True,
+    file_id: str = "f0",
+    seen_footnotes: set[str] | None = None,
+) -> str:
     """Format inline Markdown (**bold**, *italic*, `hebrew`, {{fn:N}}) to Typst."""
+    if seen_footnotes is None:
+        seen_footnotes = set()
     tokens: list[str] = []
     pos = 0
+    prev_was_fn = False
     pattern = re.compile(r"(\{\{fn:(\d+)\}\}|`([^`]+)`|\*\*([^*]+)\*\*|\*([^*]+)\*)")
 
     for m in pattern.finditer(text):
         if m.start() > pos:
             tokens.append(escape_typst(text[pos:m.start()]))
+            prev_was_fn = False
 
         if m.group(2) is not None:
             fn_num = m.group(2)
             if include_footnotes and fn_num in footnotes:
-                fn_body = format_inline(footnotes[fn_num], footnotes, include_footnotes=False)
-                tokens.append(f"#footnote[{fn_body}]")
+                if prev_was_fn:
+                    tokens.append("#super[,]")
+                label = f"fn-{file_id}-{fn_num}"
+                if fn_num not in seen_footnotes:
+                    seen_footnotes.add(fn_num)
+                    fn_body = format_inline(
+                        footnotes[fn_num],
+                        footnotes,
+                        include_footnotes=False,
+                        file_id=file_id,
+                        seen_footnotes=seen_footnotes,
+                    )
+                    tokens.append(f"#footnote[{fn_body}]<{label}>")
+                else:
+                    tokens.append(f"#footnote(<{label}>)")
+                prev_was_fn = True
         elif m.group(3) is not None:
             heb = escape_typst(m.group(3))
             tokens.append(f"#heb[{heb}]")
+            prev_was_fn = False
         elif m.group(4) is not None:
             bold = escape_typst(m.group(4))
             tokens.append(f"*{bold}*")
+            prev_was_fn = False
         elif m.group(5) is not None:
             ital = escape_typst(m.group(5))
             tokens.append(f"_{ital}_")
+            prev_was_fn = False
 
         pos = m.end()
 
@@ -160,31 +187,33 @@ def render_blocks_to_typst(
     footnotes: dict[str, str],
     include_redaktion: bool,
     include_footnotes: bool,
+    file_id: str = "f0",
 ) -> str:
     out: list[str] = []
+    seen_footnotes: set[str] = set()
     for kind, content in blocks:
         if kind == "h1":
-            out.append(f"= {format_inline(content, footnotes, include_footnotes)}\n")
+            out.append(f"= {format_inline(content, footnotes, include_footnotes, file_id, seen_footnotes)}\n")
         elif kind == "h2":
-            out.append(f"== {format_inline(content, footnotes, include_footnotes)}\n")
+            out.append(f"== {format_inline(content, footnotes, include_footnotes, file_id, seen_footnotes)}\n")
         elif kind == "h3":
-            out.append(f"=== {format_inline(content, footnotes, include_footnotes)}\n")
+            out.append(f"=== {format_inline(content, footnotes, include_footnotes, file_id, seen_footnotes)}\n")
         elif kind == "para":
-            out.append(f"{format_inline(content, footnotes, include_footnotes)}\n")
+            out.append(f"{format_inline(content, footnotes, include_footnotes, file_id, seen_footnotes)}\n")
         elif kind == "olist":
             for item in content.splitlines():
-                out.append(f"+ {format_inline(item, footnotes, include_footnotes)}")
+                out.append(f"+ {format_inline(item, footnotes, include_footnotes, file_id, seen_footnotes)}")
             out.append("")
         elif kind == "ulist":
             for item in content.splitlines():
-                out.append(f"- {format_inline(item, footnotes, include_footnotes)}")
+                out.append(f"- {format_inline(item, footnotes, include_footnotes, file_id, seen_footnotes)}")
             out.append("")
         elif kind == "redaktion":
             if include_redaktion:
-                body = format_inline(re.sub(r"\s+", " ", content), footnotes, include_footnotes=False)
+                body = format_inline(re.sub(r"\s+", " ", content), footnotes, include_footnotes=False, file_id=file_id)
                 out.append(f"#redaktion[{body}]\n")
         elif kind == "infobox":
-            body = format_inline(re.sub(r"\s+", " ", content), footnotes, include_footnotes=False)
+            body = format_inline(re.sub(r"\s+", " ", content), footnotes, include_footnotes=False, file_id=file_id)
             out.append(f"#infobox[{body}]\n")
     return "\n".join(out)
 
@@ -211,7 +240,9 @@ def main():
         meta, blocks, footnotes = parse_markdown_file(p)
         if idx > 0 and meta.get("pagebreak", True):
             rendered_parts.append("#pagebreak(weak: true)\n")
-        rendered_parts.append(render_blocks_to_typst(blocks, footnotes, include_redaktion, include_footnotes))
+        rendered_parts.append(
+            render_blocks_to_typst(blocks, footnotes, include_redaktion, include_footnotes, file_id=f"f{idx}")
+        )
 
     content_str = "\n".join(rendered_parts)
 

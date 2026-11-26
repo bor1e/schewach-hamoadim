@@ -33,8 +33,12 @@ Schlichtheit ist **gleichrangig mit Genauigkeit**. Eine Übersetzung, die zwar k
 Da das Buch für deutschsprachige Leserinnen und Leser gut lesbar sein soll, verzichten wir bewusst auf wissenschaftliche Sonderzeichen (keine Punkte, Unterstriche oder diakritischen Zeichen).
 
 - **Aussprache:** Orientierung an der modernen hebräischen (**Iwrit-**)Aussprache, angepasst an deutsche Lesegewohnheiten (nicht aschkenasisch-chassidisch).
-- **Kursivierung:** Hebräische Begriffe sowie Werktitel und Quellen werden im deutschen Fließtext *kursiv* gesetzt.
+- **Kursivierung & Originalschrift:**
+  - Alleinstehende hebräische Begriffe (*Schabbat*, *Menora*, *Menorot*) sowie Werktitel und klassische Kommentator-Siglen (*Rambam*, *Schulchan Aruch*, *Magen Awraham*, *Eschel Awraham*) werden *kursiv* gesetzt.
+  - Eingedeutschte Zusammensetzungen wie *Schabbatlichter*, *Schabbatkleidung*, *Schabbateingang* und *Chanukka-Geld* stehen **recte**; Personennamen (`Rabbi …`, `der Rebbe`) stehen ebenfalls **recte**.
+  - Hebräische Originalschrift im Fließtext steht immer in Backticks (`` `...` ``), damit Typst `#heb[...]` nutzt.
 - **Werktitel & Quellen:** Immer transliterieren, **nicht** übersetzen (z. B. *Sefer Haminhagim*, *Likutej Sichot*, *Tora Or*, *Schulchan Aruch*, *Kizzur Schulchan Aruch*, *Tanja*).
+- **Fußnoten-Gliederung:** `Kap.` für `פרק` (*Perek*), `Kapitel` für `סימן` (*Siman*).
 - **Abkürzungen:** Hebräische Abkürzungen möglichst ausschreiben oder vermeiden:
   - `ר״ה` → **Rosch Haschana** (immer ausschreiben)
   - `יו״כ` → **Jom Kippur** (immer ausschreiben)

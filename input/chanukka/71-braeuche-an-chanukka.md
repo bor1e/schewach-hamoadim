@@ -23,9 +23,9 @@ Es ist jüdischer Brauch, an Chanukka Speisen zu essen, die in Öl zubereitet si
 
 Frauen haben den Brauch, keine Arbeit zu verrichten, solange die Chanukka-Lichter für ihre vorgeschriebene Zeit brennen, wie am Ende von Kapitel 61 erwähnt.{{fn:4}}
 
-## Absatz 5: *Chanukka-Geld*
+## Absatz 5: Chanukka-Geld
 
-Es ist jüdischer Brauch, dass Eltern und Verwandte den Kindern *Chanukka-Geld* schenken.{{fn:5}} Und wie schön ist es, wenn auch Kinder ihren Freunden und Freundinnen *Chanukka-Geld* geben.{{fn:6}} Die *Chabad*-Rebbeim gaben ihren Kindern sogar nach deren Hochzeit noch *Chanukka-Geld*,{{fn:5}} und zwar meist am vierten oder fünften Abend.{{fn:7}}
+Es ist jüdischer Brauch, dass Eltern und Verwandte den Kindern Chanukka-Geld schenken.{{fn:5}} Und wie schön ist es, wenn auch Kinder ihren Freunden und Freundinnen Chanukka-Geld geben.{{fn:6}} Die *Chabad*-Rebbeim gaben ihren Kindern sogar nach deren Hochzeit noch Chanukka-Geld,{{fn:5}} und zwar meist am vierten oder fünften Abend.{{fn:7}}
 
 ## Absatz 6: Das *Dreidel*-Spiel
 
@@ -60,7 +60,7 @@ Es ist Brauch, an den Tagen von Chanukka vermehrt *Tzedaka* zu geben, weil diese
 :::
 
 :::footnote 3
-*Sefer Hasichot 5752*, Bd. 1, S. 196. Eine erste Quelle für diesen Brauch ist *Rabbi Maimon*, der Vater des *Rambam* (Sammelband *Sarid ufalit*, Jerusalem 5705).
+*Sefer Hasichot 5752*, Bd. 1, S. 196. Eine erste Quelle für diesen Brauch ist Rabbi Maimon, der Vater des *Rambam* (Sammelband *Sarid ufalit*, Jerusalem 5705).
 :::
 
 :::footnote 4
@@ -68,11 +68,11 @@ Es ist Brauch, an den Tagen von Chanukka vermehrt *Tzedaka* zu geben, weil diese
 :::
 
 :::footnote 5
-*Likutej Sichot*, Bd. 20, S. 451–452. In *Likutej Lewi Jitzchak* (*Igrot*, S. 358) werden Hinweise und tiefere Bedeutungen für das Schenken von *Chanukka-Geld* angeführt.
+*Likutej Sichot*, Bd. 20, S. 451–452. In *Likutej Lewi Jitzchak* (*Igrot*, S. 358) werden Hinweise und tiefere Bedeutungen für das Schenken von Chanukka-Geld angeführt.
 :::
 
 :::footnote 6
-Der *Rebbe* in *Mivza Chanukka*, abgedruckt am Anfang dieser Gesetze zu Chanukka.
+Der Rebbe in *Miwza Chanukka*, abgedruckt am Anfang dieser Gesetze zu Chanukka.
 :::
 
 :::footnote 7
@@ -96,11 +96,11 @@ Im *Bnej Jissaschar* (*Ma’amarej Kislew weTewet*, Ma’amar 2) wird eine tiefe
 :::
 
 :::footnote 12
-*Pri Megadim*, *Eshel Avraham*, Kapitel 670 am Anfang.
+*Pri Megadim*, *Eschel Awraham*, Kapitel 670 am Anfang.
 :::
 
 :::footnote 13
-Der *Rebbe* in *Mivza Chanukka*, Punkt 8. Siehe auch *Pnej Jehoschua* (*Megilla* 4a, Leitwort *Bepirschi*), dass man auch an Chanukka über die Themen des Tages sprechen soll; und im *Beit Halewi* (*Paraschat Wajigasch*, über Chanukka) wird berichtet, er habe gesehen, dass man an Chanukka das Kapitel *Bame madlikin* lernt, das vom Entzünden der Lichter handelt.
+Der Rebbe in *Miwza Chanukka*, Punkt 8. Siehe auch *Pnej Jehoschua* (*Megilla* 4a, zum *Raschi*-Kommentar), dass man auch an Chanukka über die Themen des Tages sprechen soll; und im *Beit Halewi* (*Paraschat Wajigasch*, über Chanukka) wird berichtet, er habe gesehen, dass man an Chanukka das Kapitel *Bame madlikin* lernt, das vom Entzünden der Lichter handelt.
 :::
 
 :::footnote 14

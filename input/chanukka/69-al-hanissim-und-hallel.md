@@ -23,11 +23,11 @@ Obwohl *Al Hanissim* die Gültigkeit des Gebets nicht aufhebt, wenn es fehlt, da
 
 Hat man im Tischgebet vergessen, *Al Hanissim* zu sagen, und erinnert sich noch vor dem G”ttesnamen am Ende des zweiten Segensspruchs (*Al ha’aretz we’al hamason*), kehrt man um und beginnt mit *Al Hanissim*.
 
-Erinnert man sich erst nach dem G”ttesnamen, fügt man später bei den Bitten mit *Harachaman* („Der Barmherzige…“, vor *Harachaman hu jesakenu*) ein: *Harachaman hu ja’asse lanu nissim kemo sche’assa la’awotejnu bajamim hahem bisman hase, bimej Matitjahu…* („Der Barmherzige möge uns Wunder tun, wie Er sie unseren Vorfahren getan hat in jenen Tagen zu dieser Zeit, in den Tagen von Matitjahu…“).{{fn:3}}
+Erinnert man sich erst nach dem G”ttesnamen, fügt man später bei den Bitten mit *Harachaman* („Der Barmherzige…“, vor *Harachaman hu jesakenu*) ein: *Harachaman hu ja’asse lanu nissim kemo sche’assa la’awotejnu bajamim hahem bisman hase, bimej Matitjahu…* („Der Barmherzige möge uns Wunder tun, wie Er sie unseren Vorfahren in jenen Tagen zu dieser Zeit getan hat, in den Tagen von Matitjahu…“).{{fn:3}}
 
 ## Absatz 5
 
-Wenn man am *Schabbat* von Chanukka im Tischgebet zwar *Al Hanissim* gesagt hat, aber *Retze* (die Bitte für *Schabbat*) vergessen hat, muss man das ganze Tischgebet wiederholen, um *Retze* zu sagen – dabei muss man *Al Hanissim* beim zweiten Mal aber nicht noch einmal sagen.{{fn:4}}
+Wenn man am *Schabbat* von Chanukka im Tischgebet zwar *Al Hanissim* gesprochen, aber *Retze* (die Bitte für *Schabbat*) vergessen hat, muss man das ganze Tischgebet wiederholen, um *Retze* nachzuholen – *Al Hanissim* braucht man beim zweiten Mal jedoch nicht noch einmal einzufügen.{{fn:4}}
 
 ## Absatz 6: *Hallel*
 

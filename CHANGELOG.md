@@ -4,6 +4,11 @@ Versionierungsregeln (wie in *Inyana Shel Toras HaChassidus*):
 - **MINOR** — Änderungen am deutschen Lesetext
 - **PATCH** — Änderungen an Fußnoten, Redaktionshinweisen, Typographie oder Pipeline
 
+## [0.1.6] — 2026-11-26
+
+- Selbst-Lektorat (Nur-Deutsch-Pass) über alle 13 Chanukka-Dateien: Korrektur von Tipp-/Unicode-Fehlern, Übersetzungskorrektur (`ד״ה בפרש״י`), Pronomenbezüge, Entfernung verbliebener Doppel-Markierungen und selbstbestätigender `:::redaktion`-Blöcke sowie Vereinheitlichung der Transliteration (*Eschel Awraham*, *Miwza*, *Sche’assa nissim*, *Eruwej Chatzerot*, Personennamen/Komposita recte).
+- `scripts/build_pdf.py`: Aufeinanderfolgende Fußnoten mit hochgestelltem Komma (`#super[,]`) getrennt und wiederverwendete Fußnoten-Anker über Typst-Labels dedupliziert.
+
 ## [0.1.4] — 2026-11-22
 
 - Deckblatt: „(MVP)“ entfernt, `בס״ד` oben rechts ergänzt.

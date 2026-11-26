@@ -52,7 +52,7 @@ Hat jemand ein eigenes Esszimmer und ein separates Schlafzimmer, zündet er in d
 :::
 
 :::footnote 3
-*Likutej Sichot*, Bd. 5, S. 456. Dort heißt es: Siehe *Sukka* (32b): „Weil es aus dem Munde von Raw Kahana kam“ [da Raw Kahana eine bestimmte Form für tauglich erklärte, hielt sich sein Schüler daran, obwohl sie nur zulässig und nicht die schönste Form war]. Nun verlieren manche, die in einer oberen Wohnung wohnen und unbedingt am Fenster zünden wollen, ihren Vorteil durch den Nachteil. Denn: (a) Die meisten oberen Wohnungen liegen höher als zwanzig Ellen über dem Straßenniveau, und nach vielen Ansichten ist es bei einem Fenster über zwanzig Ellen besser, an der Tür zu zünden, weil für die Passanten dort kein klares Zeichen mehr entsteht, für die Hausbewohner an der Tür aber schon (*Machazit Haschekel* ebenda). (b) Selbst wenn das Fenster niedriger als zwanzig Ellen liegt, haben die meisten heutigen Menorot Seitenwände, die die Lichter verdecken: Stehen die Lichter zur Straße hin, sehen die Hausbewohner sie nicht; stehen sie zum Zimmer hin, sieht man sie von der Straße nicht. Da es also auch am Fenster kein klares Zeichen für die Straße gibt, ist es besser, sie an die Tür zu stellen (*Likutej Sichot* ebenda).
+*Likutej Sichot*, Bd. 5, S. 456. Dort heißt es: Siehe *Sukka* (32b): „Weil es aus dem Munde von Raw Kahana kam“ [da Raw Kahana eine bestimmte Form für tauglich erklärte, hielt sich sein Schüler daran, obwohl sie nur zulässig und nicht die schönste Form war]. Nun verlieren manche, die in einer oberen Wohnung wohnen und unbedingt am Fenster zünden wollen, ihren Vorteil durch den Nachteil. Denn: (a) Die meisten oberen Wohnungen liegen höher als zwanzig Ellen über dem Straßenniveau, und nach vielen Ansichten ist es bei einem Fenster über zwanzig Ellen besser, an der Tür zu zünden, weil für die Passanten dort kein klares Zeichen mehr entsteht, für die Hausbewohner an der Tür aber schon (*Machazit Haschekel* ebenda). (b) Selbst wenn das Fenster niedriger als zwanzig Ellen liegt, haben die meisten heutigen *Menorot* Seitenwände, die die Lichter verdecken: Stehen die Lichter zur Straße hin, sehen die Hausbewohner sie nicht; stehen sie zum Zimmer hin, sieht man sie von der Straße nicht. Da es also auch am Fenster kein klares Zeichen für die Straße gibt, ist es besser, sie an die Tür zu stellen (*Likutej Sichot* ebenda).
 :::
 
 :::footnote 4
@@ -80,11 +80,11 @@ Nach *Schulchan Aruch* und *Lewusch*, Kapitel 671, Absatz 7.
 :::
 
 :::footnote 10
-*Taz* ebenda zu den Worten des *Rema*. Siehe auch *Schulchan Aruch Haraw*, Kapitel 370, Absatz 6, zu *Eruwe Chatzerot*: Nur wer in einem Haus im Hof isst, schränkt andere beim Tragen ein und macht einen *Eruw* nötig, während ein Haus, in dem man nur schläft, dies nicht bewirkt.
+*Taz* ebenda zu den Worten des *Rema*. Siehe auch *Schulchan Aruch Haraw*, Kapitel 370, Absatz 6, zu *Eruwej Chatzerot*: Nur wer in einem Haus im Hof isst, schränkt andere beim Tragen ein und macht einen *Eruw* nötig, während ein Haus, in dem man nur schläft, dies nicht bewirkt.
 :::
 
 :::footnote 11
-Gehört von *Rabbi S. Sch. Dworkin*.
+Gehört von Rabbi S. Sch. Dworkin.
 :::
 
 :::footnote 12

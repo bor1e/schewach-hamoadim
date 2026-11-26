@@ -17,11 +17,7 @@ Die Chanukka-Lichter in der Synagoge soll ein Trauernder in der ersten Nacht nic
 
 ## Absatz 3
 
-Ein *Onen* – also ein naher Angehöriger eines Verstorbenen in der Zeit zwischen Tod und Beerdigung – lässt, wenn jemand anderes anwesend ist, diesen die Lichter mit den Segenssprüchen anzünden und antwortet *Amen*. Ist niemand anderes da, zündet er selbst an, aber ohne Segensspruch.{{fn:1}}
-
-:::redaktion
-Begriff *Onen*: Hier direkt im Satz knapp erklärt („ein naher Angehöriger eines Verstorbenen in der Zeit zwischen Tod und Beerdigung“), damit Leser ohne Vorkenntnisse sofort verstehen, worum es geht.
-:::
+Ein *Onen* – also ein naher Angehöriger eines Verstorbenen in der Zeit zwischen Tod und Beerdigung – lässt jemand anderen die Lichter mit den Segenssprüchen anzünden, sofern jemand anwesend ist, und antwortet *Amen*. Ist niemand anderes da, zündet er selbst an, aber ohne Segensspruch.{{fn:1}}
 
 ## Absatz 4
 
@@ -29,7 +25,7 @@ Wenn man an Chanukka im Trauerhaus betet, wird das *Hallel* ganz normal gesproch
 
 ## Absatz 5
 
-Auch an Chanukka darf der Trauernde in der Synagoge als Vorbeter vorbeten – mit Ausnahme des *Hallel*, wie eben erklärt.{{fn:3}} Das *Kaddisch* nach dem *Hallel* sagt er jedoch, weil es zum Abschluss des Gebets der Gemeinde gehört.{{fn:4}}
+Auch an Chanukka darf der Trauernde in der Synagoge vorbeten – mit Ausnahme des *Hallel*, wie eben erklärt.{{fn:3}} Das *Kaddisch* nach dem *Hallel* sagt er jedoch, weil es zum Abschluss des Gebets der Gemeinde gehört.{{fn:4}}
 
 ## Absatz 6
 

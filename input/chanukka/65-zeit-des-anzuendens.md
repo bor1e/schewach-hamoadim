@@ -9,11 +9,11 @@ section: chanukka
 
 ## Absatz 1
 
-Nach dem Gesetz unseres *Schulchan Aruch* ist die Zeit zum Entzünden der Chanukka-Lichter bei Einbruch der Nacht, das heißt mit dem Erscheinen der Sterne (*Tzet Hakochawim*).{{fn:1}} Der Brauch von *Chabad* ist es, nach Sonnenuntergang zwischen *Mincha* und *Ma’ariw* zu zünden.{{fn:2}}
+Nach dem Gesetz unseres *Schulchan Aruch* ist die Zeit zum Entzünden der Chanukka-Lichter bei Einbruch der Nacht, das heißt mit dem Erscheinen der Sterne.{{fn:1}} Der Brauch von *Chabad* ist es, nach Sonnenuntergang zwischen *Mincha* und *Ma’ariw* zu zünden.{{fn:2}}
 
 ## Absatz 2: *Ma’ariw* und das Chanukka-Licht
 
-Ist die Zeit für das Abendgebet (*Ma’ariw*) bereits gekommen, betet man zuerst *Ma’ariw* und zündet danach, weil das regelmäßig wiederkehrende Gebot Vorrang hat.{{fn:3}} Hat man im Moment jedoch keinen *Minjan* und weiß, dass man später einen *Minjan* hat, oder betet man gewöhnlich in einem späten *Minjan*, dann zündet man zuerst die Lichter.{{fn:4}}
+Ist die Zeit für das Abendgebet (*Ma’ariw*) bereits gekommen, betet man zuerst *Ma’ariw* und zündet danach, weil das regelmäßig wiederkehrende Gebot Vorrang hat.{{fn:3}} Hat man im Moment jedoch keinen *Minjan* und weiß, dass später einer zusammenkommt, oder betet man gewöhnlich in einer späteren Gebetsrunde, dann zündet man zuerst die Lichter.{{fn:4}}
 
 :::redaktion
 Begriffe *Mincha*, *Ma’ariw* und *Minjan*: Für Leser ohne Vorkenntnisse könnte eine knappe Einbettung helfen („Nachmittagsgebet *Mincha*“, „Abendgebet *Ma’ariw*“, „Gebetsquorum von zehn Männern / *Minjan*“) – beim ersten Auftreten ruhig und unaufdringlich einbauen oder in der Endredaktion vereinheitlichen.
@@ -25,7 +25,7 @@ Im Nachhinein darf man, wenn man nicht zur rechten Zeit gezündet hat, die ganze
 
 ## Absatz 4
 
-Es ist richtig, sie aufzuwecken, damit man mit Segensspruch zünden kann.{{fn:6}} Und selbst wenn nur ein einziger Mensch wach ist – ein Mann, eine Frau oder auch ein Kind, das schon ein wenig versteht –, darf man mit Segensspruch zünden, selbst wenn die anderen bereits selbst gezündet haben.{{fn:7}}
+Es ist richtig, die Hausbewohner aufzuwecken, damit man mit Segensspruch zünden kann.{{fn:6}} Und schon wenn nur ein einziger Mensch wach ist – ein Mann, eine Frau oder auch ein Kind, das schon ein wenig versteht –, darf man mit Segensspruch zünden, auch wenn die anderen bereits für sich selbst gezündet haben.{{fn:7}}
 
 ## Absatz 5: Am Tag
 
@@ -44,7 +44,7 @@ Nach *Sefer Haminhagim*, S. 70, und dem Kalender *Luach Kolel Chabad*. Siehe auc
 :::
 
 :::footnote 3
-Nach *Schijurej Knesset Hagedola* ebenda in *Hagahot Tur*, Buchstabe 1; *Elija Rabba* und *Scha’arej Teschuwa* ebenda, Unterabsatz 1; *Kizzur Schulchan Aruch*, Kapitel 139, Absatz 10. So hielt man es auch im *Minjan* des *Rebben*: Wenn man sich bis zum Erscheinen der Sterne verspätete, betete man zuerst *Ma’ariw*.
+Nach *Schijurej Knesset Hagedola* ebenda in *Hagahot Tur*, Buchstabe 1; *Elija Rabba* und *Scha’arej Teschuwa* ebenda, Unterabsatz 1; *Kizzur Schulchan Aruch*, Kapitel 139, Absatz 10. So hielt man es auch im *Minjan* des Rebben: Wenn man sich bis zum Erscheinen der Sterne verspätete, betete man zuerst *Ma’ariw*.
 :::
 
 :::footnote 4

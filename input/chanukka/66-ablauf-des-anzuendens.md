@@ -37,11 +37,11 @@ Die Lichter müssen mindestens bis eine halbe Stunde nach dem Erscheinen der Ste
 
 ## Absatz 6: Das Entzünden selbst macht die *Mitzwa* aus
 
-Unsere Weisen haben festgelegt: „Das Entzünden selbst macht die *Mitzwa* aus“ – die Pflicht hängt also am Akt des Anzündens und nicht am späteren Hinstellen. Deshalb müssen die Lichter schon beim Entzünden an ihrem richtigen Platz stehen, bereits genügend Öl für die gesamte vorgeschriebene Brenndauer enthalten und an einem windgeschützten Ort stehen, damit sie nicht ausgehen können.{{fn:8}}
+Unsere Weisen haben festgelegt: „Das Entzünden selbst macht die *Mitzwa* aus“ – die Pflicht hängt also am Akt des Anzündens und nicht am späteren Hinstellen. Deshalb müssen die Lichter schon beim Entzünden an ihrem richtigen Platz stehen, bereits genügend Öl für die gesamte vorgeschriebene Brenndauer enthalten und an einem windgeschützten Ort aufgestellt sein, damit sie nicht ausgehen können.{{fn:8}}
 
 ## Absatz 7
 
-Zündet man sie beispielsweise höher als zwanzig Ellen an und stellt sie erst brennend an den richtigen Platz, oder ist beim Entzünden noch nicht genug Öl darin und man gießt erst danach Öl nach, dann hilft das nicht. Ebenso hat man die *Mitzwa* nicht erfüllt, wenn man sie an einen windigen Ort stellt und sie ausgehen; man muss sie dann erneut anzünden, allerdings ohne Segensspruch.
+Zündet man die Lichter beispielsweise höher als zwanzig Ellen an und stellt sie erst brennend an den richtigen Platz, oder ist beim Entzünden noch nicht genug Öl darin und man gießt erst danach Öl nach, dann hilft das nicht. Ebenso hat man die *Mitzwa* nicht erfüllt, wenn man sie an einen windigen Ort stellt und sie ausgehen; man muss sie dann erneut anzünden, allerdings ohne Segensspruch.
 
 Standen sie hingegen an einem geschützten, richtigen Platz und sind nur durch einen Zufall erloschen, ist die *Mitzwa* bereits erfüllt{{fn:8}} – dennoch ist es Brauch, sie wieder anzuzünden.{{fn:9}}
 
@@ -59,7 +59,7 @@ Sobald die vorgeschriebene Brenndauer vorüber ist, darf man die *Menora* wieder
 
 ## Absatz 11: Verweilen bei den Lichtern
 
-Es ist Brauch, etwa eine halbe Stunde in der Nähe der Lichter zu bleiben – außer am Freitagabend vor *Schabbat*.{{fn:13}}
+Es ist Brauch, etwa eine halbe Stunde in der Nähe der Lichter zu bleiben – außer am Freitag vor *Schabbat*.{{fn:13}}
 
 :::redaktion
 Zu Absatz 11: Warum man am Freitagabend nicht verweilt (weil man in den *Schabbat* eintritt / zum *Schabbat*-Gebet und zum *Schabbat*-Mahl geht), steht nicht explizit im Text; bleibt hier schlicht wie im Original.
@@ -71,7 +71,7 @@ Vor dem Entzünden der Chanukka-Lichter sollte man alle Hausbewohner zusammenruf
 
 ## Absatz 13: *Awnet* beim Entzünden
 
-Verheiratete Männer tragen beim Entzünden der Chanukka-Lichter ihren Gebetsgürtel (*Awnet*); man zieht dafür jedoch keine *Schabbat*-Kleidung an.{{fn:16}}
+Verheiratete Männer tragen beim Entzünden der Chanukka-Lichter ihren Gebetsgürtel (*Awnet*); man zieht dafür jedoch keine Schabbatkleidung an.{{fn:16}}
 
 :::redaktion
 *Awnet* (Gebetsgürtel): Für Leser ohne Vorkenntnisse ist „Gebetsgürtel“ allein klarer; *Awnet* ist hier nur ergänzt, weil es ein typischer *Chabad*-Brauch ohne geläufiges deutsches Einzelwort ist. Prüfen, ob „einen Gebetsgürtel“ ohne *Awnet* noch schlichter wäre.
@@ -98,11 +98,11 @@ Verheiratete Männer tragen beim Entzünden der Chanukka-Lichter ihren Gebetsgü
 :::
 
 :::footnote 6
-*Pri Chadasch* ebenda, Unterabsatz 2. *Pri Megadim*, *Eshel Avraham* ebenda, Unterabsatz 3.
+*Pri Chadasch* ebenda, Unterabsatz 2. *Pri Megadim*, *Eschel Awraham* ebenda, Unterabsatz 3.
 :::
 
 :::footnote 7
-*Sefer Haminhagim*, S. 70. Das Maß von fünfzig Minuten erklärt sich aus den unterschiedlichen Ansichten über den Beginn des Entzündens – ob nach Sonnenuntergang oder nach dem Erscheinen der Sterne. Unser Brauch berücksichtigt beide Ansichten: Man zündet nach Sonnenuntergang an und sorgt dafür, dass die Lichter bis eine halbe Stunde nach dem Erscheinen der Sterne brennen. Siehe *Pri Megadim* und *Mischna Berura*, Kapitel 672, sowie die Ordnung zum *Schabbat*-Eingang im *Siddur* unseres Meisters (nach *Igrot Kodesch* des *Rebben*, Bd. 10, S. 153).
+*Sefer Haminhagim*, S. 70. Das Maß von fünfzig Minuten erklärt sich aus den unterschiedlichen Ansichten über den Beginn des Entzündens – ob nach Sonnenuntergang oder nach dem Erscheinen der Sterne. Unser Brauch berücksichtigt beide Ansichten: Man zündet nach Sonnenuntergang an und sorgt dafür, dass die Lichter bis eine halbe Stunde nach dem Erscheinen der Sterne brennen. Siehe *Pri Megadim* und *Mischna Berura*, Kapitel 672, sowie die Ordnung zum Schabbateingang im *Siddur* unseres Meisters (nach *Igrot Kodesch* des Rebben, Bd. 10, S. 153).
 :::
 
 :::footnote 8
