@@ -69,13 +69,9 @@ Zu Absatz 11: Warum man am Freitagabend nicht verweilt (weil man in den *Schabba
 
 Vor dem Entzünden der Chanukka-Lichter sollte man alle Hausbewohner zusammenrufen, damit sie dabei sind – um das Wunder gemeinsam sichtbar zu machen,{{fn:14}} und damit alle die Segenssprüche hören und das Entzünden miterleben.{{fn:15}}
 
-## Absatz 13: *Awnet* beim Entzünden
+## Absatz 13: Gebetsgürtel beim Entzünden
 
-Verheiratete Männer tragen beim Entzünden der Chanukka-Lichter ihren Gebetsgürtel (*Awnet*); man zieht dafür jedoch keine Schabbatkleidung an.{{fn:16}}
-
-:::redaktion
-*Awnet* (Gebetsgürtel): Für Leser ohne Vorkenntnisse ist „Gebetsgürtel“ allein klarer; *Awnet* ist hier nur ergänzt, weil es ein typischer *Chabad*-Brauch ohne geläufiges deutsches Einzelwort ist. Prüfen, ob „einen Gebetsgürtel“ ohne *Awnet* noch schlichter wäre.
-:::
+Verheiratete Männer tragen beim Entzünden der Chanukka-Lichter ihren Gebetsgürtel; man zieht dafür jedoch keine Schabbatkleidung an.{{fn:16}}
 
 :::footnote 1
 *Schulchan Aruch* und *Lewusch*, Kapitel 671, Absatz 2.

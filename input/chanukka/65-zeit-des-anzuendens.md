@@ -7,9 +7,9 @@ section: chanukka
 
 # Kapitel 65: Die Zeit des Entzündens
 
-## Absatz 1
+## Absatz 1: Nach Sonnenuntergang
 
-Nach dem Gesetz unseres *Schulchan Aruch* ist die Zeit zum Entzünden der Chanukka-Lichter bei Einbruch der Nacht, das heißt mit dem Erscheinen der Sterne.{{fn:1}} Der Brauch von *Chabad* ist es, nach Sonnenuntergang zwischen *Mincha* und *Ma’ariw* zu zünden.{{fn:2}}
+Manche haben den Brauch, die Chanukka-Lichter nach Sonnenuntergang zu entzünden, und andere nach dem Erscheinen der Sterne.{{fn:1}} Der Brauch von *Chabad* ist es, sie nach Sonnenuntergang zwischen *Mincha* und *Ma’ariw* zu entzünden.{{fn:2}}
 
 ## Absatz 2: *Ma’ariw* und das Chanukka-Licht
 
