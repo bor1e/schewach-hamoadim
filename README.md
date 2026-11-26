@@ -1,11 +1,11 @@
-# Schewach Hamoadim — Deutsche Ausgabe (MVP)
+# Schewach Hamoadim — Deutsche Ausgabe
 
 Deutsche Übersetzung von *Schewach Hamoadim, Band 1* (*Die jüdischen Feiertage – Halacha und Brauch*), beginnend mit dem Abschnitt **Chanukka** (Kapitel 61–72).
 
 ## Projektstruktur
 
 - [VERSION](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/VERSION) — Versionsbasis (`0.1.0`)
-- [build](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/build) — Build-Skript für Typst-PDFs (`proof` mit Redaktionshinweisen, `a5` als Leseausgabe)
+- [build](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/build) — Build-Skript für Typst-PDFs (Standard: `a5` Leseausgabe; optional `proof` mit Redaktionshinweisen)
 - [docs/sprachguide.md](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/docs/sprachguide.md) — Verbindliche Stil-, Transkriptions- und Terminologieregeln
 - [data/hebrew/](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/data/hebrew) — Extrahierter hebräischer Originaltext als maschinenlesbares JSON (`schewach-hamoadim.json`, `chanukka.json`)
 - [input/chanukka/](file:///Users/elyahuborodin/Documents/projects/schewach-hamoadim-de/input/chanukka) — Deutsche Übersetzung im Markdown-DSL-Format (inkl. `:::redaktion`-Hinweisen)
@@ -22,11 +22,11 @@ Deutsche Übersetzung von *Schewach Hamoadim, Band 1* (*Die jüdischen Feiertage
 ## Verwendung
 
 ```bash
-# Korrekturfahne (DIN A5, inkl. :::redaktion-Hinweise) -> dist/proof-a5/book.pdf
-./build proof
+# Leseausgabe (DIN A5, Standard, ohne Redaktionshinweise) -> dist/pdf-a5/book.pdf & archive/
+./build
 
-# Leseausgabe (DIN A5, ohne Redaktionshinweise) -> dist/pdf-a5/book.pdf
-./build a5
+# Optional: Korrekturfahne (DIN A5, inkl. :::redaktion-Hinweise) -> dist/proof-a5/book.pdf
+./build proof
 
 # Hebräischen Originaltext erneut aus dem PDF extrahieren
 python3 scripts/extract_hebrew.py

@@ -3,13 +3,13 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 SECTION="chanukka"
-TARGET="proof"
+TARGET="a5"
 VERSION="__auto__"
 NO_REDAKTION=0
 NO_FOOTNOTES=0
 
 usage() {
-    echo "Usage: ./build [proof|a5] [--section <name>] [--version <ver|none>] [--no-redaktion] [--no-footnotes]"
+    echo "Usage: ./build [a5|proof] [--section <name>] [--version <ver|none>] [--no-redaktion] [--no-footnotes]"
     exit 1
 }
 
@@ -72,7 +72,4 @@ mkdir -p "$SCRIPT_DIR/archive"
 if [[ "$TARGET" == "a5" && $NO_FOOTNOTES -eq 0 ]]; then
     cp "$OUT/book.pdf" "$SCRIPT_DIR/archive/${SECTION}-v${BASE_VER}.pdf"
     echo "Archived: archive/${SECTION}-v${BASE_VER}.pdf"
-elif [[ "$TARGET" == "proof" && $NO_FOOTNOTES -eq 0 ]]; then
-    cp "$OUT/book.pdf" "$SCRIPT_DIR/archive/${SECTION}-proof-v${BASE_VER}.pdf"
-    echo "Archived: archive/${SECTION}-proof-v${BASE_VER}.pdf"
 fi

@@ -45,25 +45,22 @@ jobs:
         with:
           typst-version: "0.14.2"
 
-      - name: Build Chanukka PDFs
+      - name: Build Chanukka PDF
         run: |
           VER="${{ steps.tag_version.outputs.new_tag }}"
           if [ -z "$VER" ]; then
             VER="$(./scripts/version.sh)"
           fi
-          ./build proof --version "$VER"
           ./build a5 --version "$VER"
 
-      - name: Commit archived PDFs
+      - name: Commit archived PDF
         if: github.event_name == 'push' && steps.tag_version.outputs.new_tag != ''
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Build: Update archived PDFs to ${{ steps.tag_version.outputs.new_tag }} [skip ci]"
+          commit_message: "Build: Update archived PDF to ${{ steps.tag_version.outputs.new_tag }} [skip ci]"
           file_pattern: "archive/*.pdf"
 
       - uses: actions/upload-artifact@v4
         with:
           name: schewach-hamoadim-chanukka-pdf
-          path: |
-            dist/proof-a5/book.pdf
-            dist/pdf-a5/book.pdf
+          path: dist/pdf-a5/book.pdf
